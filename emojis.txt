@@ -1,0 +1,52 @@
+# Emojis dos Botões do Sistema de Tickets
+# Você pode editar os emojis neste arquivo para personalizar a aparência dos botões
+
+# Painel de Configuração Principal
+ADD = ➕
+EDIT = ✏️
+DELETE = 🗑️
+SETTINGS = ⚙️
+
+# Editor de Painel
+TEXT = 📝
+DESCRIPTION = 📄
+COLOR = 🎨
+ROLE = 👥
+CATEGORY = 📁
+APPEARANCE = 🎭
+SAVE = 💾
+CANCEL = ❌
+BACK = ⬅️
+
+# Estilos de Botão
+STYLE = 🎨
+EMOJI = 😀
+
+# Botões do Ticket
+LOCK = 🔒
+WAVE = 👋
+BELL = 🔔
+ARCHIVE = 📂
+USERS = 👥
+TRANSCRIPT = 📝
+
+# Prioridades
+PRIORITY_NONE = ⚪
+PRIORITY_LOW = 🟢
+PRIORITY_MEDIUM = 🟡
+PRIORITY_HIGH = 🔺
+
+# Dropdown
+DROPDOWN = 📋
+
+# Visibilidade
+VISIBLE = 👁️
+
+# Configurações
+TICKETS_PER_USER = 🎟️
+MEMBER_CLOSE = 🚪
+INACTIVITY = ⏱️
+AUTO_ARCHIVE = 📂
+REQUIRE_REASON = 📝
+NOTIFY_ON_OPEN = 🔔
+TICKET_FORMAT = 🏷️
